@@ -1,0 +1,8 @@
+.rsyncignore
+README.md
+LICENSE.md
+.env.example
+config/environments/local.example.php
+web/app/themes/*/node_modules
+.github
+.git
